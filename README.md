@@ -1,2 +1,2 @@
 # XBehaviourTree
-A simple behavior tree
+一款简单的行为树运行时库，提供了行为树管理器，行为树，行为树工厂，行为树基础节点等类，目前基于Json解析
